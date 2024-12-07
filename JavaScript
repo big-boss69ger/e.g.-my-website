@@ -1,0 +1,6 @@
+function greetUser() {
+  alert("Welcome to my website!");
+}
+
+// Call the greetUser function when the page loads
+window.onload = greetUser;
